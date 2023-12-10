@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1207px;
+    margin: 0;
+}
+.img-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 45.32px;
+height: 49.18px;
+flex-shrink: 0;
+}
+.logo img{
+    height: 100%;
+    width: 100%;
+}
+.logo-2{
+    width: 164.28px;
+height: 21.667px;
+flex-shrink: 0;
+}
